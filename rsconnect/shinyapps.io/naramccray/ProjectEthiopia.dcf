@@ -1,0 +1,12 @@
+name: ProjectEthiopia
+title: ProjectEthiopia
+username:
+account: naramccray
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 337534
+bundleId: 1356263
+url: https://naramccray.shinyapps.io/ProjectEthiopia/
+when: 1525458518.14685
+asMultiple: FALSE
+asStatic: FALSE
